@@ -1,0 +1,47 @@
+{
+  "perfis": [
+    {
+      "id": 1,
+      "nome": "Administrador"
+    },
+    {
+      "id": 2,
+      "nome": "Técnico"
+    },
+    {
+      "id": 3,
+      "nome": "Gerente"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Admin Teste",
+      "email": "admin@techman.local",
+      "perfilId": 1
+    }
+  ],
+  "equipamentos": [
+    {
+      "id": null,
+      "ativo": false
+    },
+    {
+      "id": null,
+      "ativo": false
+    },
+    {
+      "id": null,
+      "ativo": false
+    },
+    {
+      "id": null,
+      "ativo": false
+    }
+  ],
+  "comentarios": [],
+  "nextId": {
+    "equipamento": 5,
+    "comentario": 1
+  }
+}
